@@ -1,6 +1,10 @@
 # ESP8285-Power-Plug
-ESP8285 - Power Plug
 
+
+### LSC Smart Connect Power plug
+
+
+<img src="https://raw.githubusercontent.com/AchimPieters/ESP8285-Power-Plug/master/images/0.jpg" width="300"/>
 
 <img src="https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Fountain-light/master/Images/apple_logo.png" width="20"/>
 
